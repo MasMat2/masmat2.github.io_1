@@ -1,0 +1,60 @@
+{
+  "providerName": "Acme Productions",
+  "lastUpdated": "2015-11-11T22:21:37+00:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "1",
+      "title": "Sonic the Hedgehog",
+      "content": {
+        "dateAdded": "2019-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "https://9l7l1w.gounlimited.to/tea5v54m3t2qzxffforiritz6ne2rmoak2vco7wsrdickpkrzj7rzhqbsp5q/v.mp4",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4740,
+        "captions": [],
+        "language": "en"
+      },
+      "genres": ["comedy"],
+      "releaseDate": "2016-01-01",
+      "shortDescription": "Incredible movie description",
+      "longDescription": "Even more incredible and longer movie description",
+      "thumbnail": "https://tecnoticias.net/wp-content/uploads/2019/12/sonicmovie2.png"
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "id": "decbe34b64ea4ca281dc09997d0f23fd",
+      "title": "Live Gaming",
+      "shortDescription": "With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.",
+      "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
+      "genres": ["gaming", "technology"],
+      "tags": ["gaming", "broadcasts", "live", "twitch", "technology"],
+      "releaseDate": "2015-06-11",
+      "content": {
+        "dateAdded": "2015-06-11T14:14:54.431Z",
+        "captions": [],
+        "duration": 53,
+        "adBreaks": ["00:00:00", "00:00:53"],
+        "videos": [
+          {
+            "url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Gb/siCt-V7LOSU08W_Ve1ByJY5N9emKZeXZvnrH2Yb9c/117_segment_2_twitch__nw_060515.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Roku Recommends",
+      "playlistName": "short-form",
+      "order": "manual"
+    }
+  ]
+}
